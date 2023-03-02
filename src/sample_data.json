@@ -1,0 +1,27 @@
+[
+  {
+    "text": "What was the first car Henry Ford produced?",
+    "answers": ["Model A", "Model T", "Model B", "Model S"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What car company produces the Mustang?",
+    "answers": ["Chevrolet", "Dodge", "Ford", "Toyota"],
+    "correctIndex": 2
+  },
+  {
+    "text": "What car company produces the Camaro?",
+    "answers": ["Chevrolet", "Dodge", "Ford", "Toyota"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What car company produces the Challenger?",
+    "answers": ["Chevrolet", "Dodge", "Ford", "Toyota"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What car company produces the Supra?",
+    "answers": ["Chevrolet", "Dodge", "Ford", "Toyota"],
+    "correctIndex": 3
+  }
+]
